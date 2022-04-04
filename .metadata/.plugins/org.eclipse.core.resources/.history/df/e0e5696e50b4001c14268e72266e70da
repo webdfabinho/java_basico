@@ -1,0 +1,26 @@
+
+public class TestaEscopo {
+	
+	public static void main(String[] args) {
+		System.out.println ("Testando Condicionais");
+		
+		int idade = 206;
+		int quantidadeDePessoas = 3;
+		boolean acompanhado = quantidadeDePessoas >= 2; 
+		
+		int idade2 = 68;
+		boolean ehIdoso = idade2 >= 65;
+		
+		System.out.println(ehIdoso);
+		
+		System.out.println("O Valor de Acompanhado = " + acompanhado); 
+		
+		if (idade >= 18 && acompanhado) {
+			System.out.println ("Seja Bem Vindo!!!"); 
+		}
+		else {
+			System.out.println  ("Desculpe, infelizmente você não pode entrar!");
+		}
+	}
+
+}

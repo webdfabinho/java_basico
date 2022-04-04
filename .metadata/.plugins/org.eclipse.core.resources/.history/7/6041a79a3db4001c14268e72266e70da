@@ -1,0 +1,20 @@
+
+public class TestaCaracteres {
+	
+	public static void main(String[] args) {
+		
+		char letra = 'a';
+		System.out.println(letra);//Para caracteres colocamos aspas simples.
+		
+		char valor = 66;
+		System.out.println(valor);//Chama o valor de um caracter.
+		
+		valor = (char) (valor +1);
+		System.out.println(valor);//Chama um valor de um caracter + 1.
+		
+		String frase = "Estou Aprendendo Java!";
+		System.out.print(frase);
+		
+	}
+
+}

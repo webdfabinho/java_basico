@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="webdfabinho &lt;webdfabinho@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="webdfabinho &lt;webdfabinho@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\DIO\.git">
+			<item value="true"/>
+			<item value="webdfabinho &lt;webdfabinho@gmail.com&gt;"/>
+			<item value="commit via Eclipse"/>
+			<item value="webdfabinho &lt;webdfabinho@gmail.com&gt;"/>
+			<item value="f39971db625259e689c0b74d4b469a8832971de7"/>
+			<item value="0"/>
+			<item value="true"/>
+		</list>
+	</section>
+</section>
